@@ -46,9 +46,13 @@ header .nav-link:hover{background: #fff;color: #31344e
 
 #testimonios{margin-top: 80px;}
 #imge{margin-top: 100px;}
-h5{font-weight: bold;font-size: 14px}
+h5{font-weight: bold;font-size: 14px;}
+h4{margin-top: 30px; font-weight: bold;font-size: 22px;}
 p{font-size: 14px;}
-
+h3{color: #ff0000;font-size: 13px;}
+#woman{margin-top: 100px;}
+#tex{font-size: 28px;font-weight: bold;text-align: center;margin-top: 80px;}
+#tex2{font-size: 13px;text-align: center;}
 #img1{height: 250px;width: 350px;}
 #img2{height: 250px;width: 350px;}
 #img3{height: 250px;width: 350px;}
@@ -57,9 +61,7 @@ p{font-size: 14px;}
 #img6{height: 250px;width: 350px;}
 #img7{height: 250px;width: 350px;}
 #img8{height: 250px;width: 350px;}
-
-
-
-
+#boton{height: 250px;width: 350px;}
+#dibujitos{margin-top: 100px;}
 
 
